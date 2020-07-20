@@ -1,6 +1,6 @@
 # Library-Management-System
 
-# how to install
+# how to install and run
 
 clone the zip file in your local server
 
